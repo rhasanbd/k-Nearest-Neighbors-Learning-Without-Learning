@@ -1,10 +1,9 @@
-If github in unable to render a Jupyter notebook, copy the link of the notebook and enter into the nbviewer:
-https://nbviewer.jupyter.org/
+# K-Nearest Neighbors - Learning Without Learning
 
 In this notebook series on the K-Nearest Neighbors (K-NN), we introduce the K-NN model and investigate various aspects of performing Machine Learning (ML) using the K-NN model.
 
 - K-NN 0: How to use Scikit-Learn to create a K-NN model
-- K-NN 1: Visualize decision boundary
+- K-NN 1: Visualize K-NN decision boundary
 - K-NN 2: Introduce various steps of Machine Learning for performing binary classification using the K-NN model. The steps include:
 
   -- Creating test dataset
@@ -33,3 +32,7 @@ In this notebook series on the K-Nearest Neighbors (K-NN), we introduce the K-NN
 
 - K-NN 6: Investigate the curse of dimensionality (multi-class classification of the MNIST handwritten digits dataset)
 
+
+
+Note: If github in unable to render a Jupyter notebook, copy the link of the notebook and enter into the nbviewer:
+https://nbviewer.jupyter.org/
