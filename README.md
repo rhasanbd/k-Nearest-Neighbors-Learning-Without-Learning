@@ -2,7 +2,7 @@
 
 In this notebook series on the K-Nearest Neighbors (K-NN), we introduce the K-NN model and investigate various aspects of performing Machine Learning (ML) using the K-NN model.
 
-- K-NN 0: How to use Scikit-Learn to create a K-NN model
+- K-NN 0: How to use Scikit-Learn to create a K-NN **classifier** model
 - K-NN 1: Visualize K-NN decision boundary
 - K-NN 2: Introduce various steps of Machine Learning for performing binary classification using the K-NN model. The steps include:
 
@@ -31,6 +31,10 @@ In this notebook series on the K-Nearest Neighbors (K-NN), we introduce the K-NN
 - K-NN 5: Investigate the non-linear decision boundary of K-NN classifier
 
 - K-NN 6: Investigate the curse of dimensionality (multi-class classification of the MNIST handwritten digits dataset)
+
+- K-NN 7: How to use Scikit-Learn to create a K-NN **regressor** model
+
+- K-NN 8: Perform regression on a housing dataset using Scikit-Learn's K-NN regressor
 
 
 
